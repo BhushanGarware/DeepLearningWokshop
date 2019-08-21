@@ -16,6 +16,7 @@ type following command at the path
 ```
 pip install keras==2.1.6
 pip install tensorflow==1.7.0
+conda install scikit-learn
 ```
 ## Acknowledgments
 
